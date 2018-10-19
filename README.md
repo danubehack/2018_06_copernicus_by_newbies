@@ -24,8 +24,10 @@ SPOILER ALERT2: ST_UNION on the INSPIRE SK protected_sites has not yet finnished
 	a. add sql_engine.py or drop result to csv
 	b. chose type of waste category by calling the function (lines xxxx - xxxx)
 
-sk_lau1_waste_scrapper: 
+# sk_lau1_waste_scrapper: 
+
 a. scraps data on waste from the Slovak Ministry of Environment's Partial Monitoring System of Waste @ http://cms.enviroportal.sk/odpady/verejne-informacie.php? with official sk nuts 3 and lau 1 id and in annual 'series'
+
 b. gives the user to opportunity to dump:
 	b1: to sql database with geom
 	b3: csv
