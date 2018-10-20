@@ -1,5 +1,5 @@
 # Copernicus by newbies
-authors: Csaba Sidor
+authors: Csaba Sidor, Tomas Kliment
 
 ## Summary
 The partial aims of the attempt were:
