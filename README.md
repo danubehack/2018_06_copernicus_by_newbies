@@ -15,8 +15,9 @@ The main aim was to use the partial aims' outcomes (listed below) for:
 	b. academia and environmental researchers.
 
 ## Results
-SPOILER ALERT1: Since it was the first time that one of the authors(C) met with NetCDF, copernicus data has been postponed till proper self-tutoring.
-SPOILER ALERT2: ST_UNION on the INSPIRE SK protected_sites has not yet finnished 
+- Video: https://youtu.be/JbnP5g9a2M8
+- SPOILER ALERT1: Since it was the first time that one of the authors(C) met with NetCDF, copernicus data has been postponed till proper self-tutoring.
+- SPOILER ALERT2: ST_UNION on the INSPIRE SK protected_sites has not yet finnished 
 
 1. sk_lau1_waste_scrapper.py 
 	For using: 
@@ -24,11 +25,11 @@ SPOILER ALERT2: ST_UNION on the INSPIRE SK protected_sites has not yet finnished
 	b. chose type of waste category by calling the function (lines xxxx - xxxx)
 
 
-sk_lau1_waste_scrapper: 
+- sk_lau1_waste_scrapper: 
 a. scraps data on waste from the Slovak Ministry of Environment's Partial Monitoring System of Waste @ http://cms.enviroportal.sk/odpady/verejne-informacie.php? with official sk nuts 3 and lau 1 id and in annual 'series'
 b. gives the user to opportunity to dump:
 	b1: to sql database with geom
 	b3: csv
 
-
+- Video:https://youtu.be/Kmd71RI_oXc
 
