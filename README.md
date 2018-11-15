@@ -42,3 +42,17 @@ pip install --user posts/dist/posts-0.1.tar.gz
 - works on locahost just fine,
 - works fine on pythonanywhere with a paid account.
 
+#COLUMNS ABBREVIATIONS:
+#r_material MEANS material valuation -> column: Zhodnocovonie materiálové
+#r_energetic  MEANS  energetic valuation -> column: Zhodnocovanie energetické
+#r_other MEANS other valuation -> column: Zhodnocovanie ostatné 
+#d_landfilling MEANS  disposal by landfilling -> column: Zneškodňovanie skládkovaním
+#d_non_energy_combustion MEANS disposal by disposal by combsution without energetic valuation -> column Zneškodňovanie bez energetického využitia
+#d_other MEANS other type of disposal -> column: Zneškodňovanie ostatné
+#o_managed MEANS other type of management -> column: Iný spôsob nakladania
+#total MEAS total volume of waste ->  column: Spolu
+
+ips_xx_ha = size of protected areas with a date of legal foundation in hectares
+Ips_xx_pct = pct coverage of the district by protected sites with a date of legal foundation
+Ips_nlf_ha = size of protected areas without a date of legal foundation in hectares 
+t_ips_xx_ha = ips_xx_ha + _ips_nlf_ha
