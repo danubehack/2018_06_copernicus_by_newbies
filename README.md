@@ -31,3 +31,14 @@ a. scraps data on waste from the Slovak Ministry of Environment's Partial Monito
 b. gives the user to opportunity to dump:
 	b1: to sql database with geom
 	b3: csv
+
+# posts/sk_lau1_waste_scrapper:
+A Simple Django app in a simpler template with each waste category represented by a button, that allows the user to download correspondent waste category for all available years and regions at once into .CSV 2 in 60 seconds
+Usage:
+Unpack posts.rar in the same directory as the other file
+
+pip install --user posts/dist/posts-0.1.tar.gz
+
+- works on locahost just fine,
+- works fine on pythonanywhere with a paid account.
+
