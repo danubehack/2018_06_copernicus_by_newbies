@@ -29,8 +29,8 @@ SPOILER ALERT2: ST_UNION on the INSPIRE SK protected_sites has not yet finnished
 a. scraps data on waste from the Slovak Ministry of Environment's Partial Monitoring System of Waste @ http://cms.enviroportal.sk/odpady/verejne-informacie.php? with official sk nuts 3 and lau 1 id and in annual 'series'
 
 b. gives the user to opportunity to dump:
-	b1: to sql database with geom
-	b3: csv
+	b1: to sql database with geom,
+	b3: csv.
 
 # posts/sk_lau1_waste_scrapper:
 A Simple Django app in a simpler template with each waste category represented by a button, that allows the user to download correspondent waste category for all available years and regions at once into .CSV 2 in 60 seconds
