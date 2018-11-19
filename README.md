@@ -15,7 +15,6 @@ The main aim was to use the partial aims' outcomes (listed below) for:
 	b. academia and environmental researchers.
 
 ## Results
-- Video: https://youtu.be/JbnP5g9a2M8
 - SPOILER ALERT1: Since it was the first time that one of the authors(C) met with NetCDF, copernicus data has been postponed till proper self-tutoring.
 - SPOILER ALERT2: ST_UNION on the INSPIRE SK protected_sites has not yet finnished 
 
@@ -32,4 +31,8 @@ b. gives the user to opportunity to dump:
 	b3: csv
 
 - Video:https://youtu.be/Kmd71RI_oXc
+
+Further details:
+
+https://github.com/csabasidor/2018_06_copernicus_by_newbies
 
